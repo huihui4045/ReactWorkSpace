@@ -8,10 +8,10 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>这个是第一个reactApp</h2>
+          <h2>欢迎来到这里sssssssssssssssss这个不能刷新吗</h2>
         </div>
         <p className="App-intro">
-          三国演绎 <code>src/App.js</code> and save to reload.
+          To get started, edit <code>src/App.js</code> and save to reload.
         </p>
       </div>
     );
