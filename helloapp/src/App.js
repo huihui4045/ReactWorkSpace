@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>欢迎来到这里sssssssssssssssss这个不能刷新吗</h2>
+          <h2>这个真的不能刷新吗 貌似真的可以啊</h2>
         </div>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
